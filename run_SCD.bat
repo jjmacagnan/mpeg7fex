@@ -1,0 +1,1 @@
+MPEG7Fex.exe SCD 256 txt\mass_training.txt descriptors\SCD.txt

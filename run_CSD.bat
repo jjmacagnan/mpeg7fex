@@ -1,0 +1,1 @@
+MPEG7Fex.exe CSD 256 txt\mass_training.txt descriptors\CSD.txt

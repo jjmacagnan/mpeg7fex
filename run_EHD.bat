@@ -1,0 +1,1 @@
+MPEG7Fex.exe EHD txt\mass_training.txt descriptors\EHD.txt
