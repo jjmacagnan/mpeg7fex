@@ -1,1 +1,0 @@
-MPEG7Fex.exe DCD txt\mass_training.txt descriptors\DCD.txt

@@ -1,1 +1,0 @@
-MPEG7Fex.exe CLD txt\mass_training.txt descriptors\CLD.txt
